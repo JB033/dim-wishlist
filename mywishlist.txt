@@ -1,0 +1,41 @@
+# [PVE] SMG – Perdition’s Edge – Subsistence + Frenzy
+weapon:"Perdition’s Edge" perks:subsistence perks:frenzy
+
+# [PVP] SMG – Perdition’s Edge – Snapshot Sights + Slideways
+weapon:"Perdition’s Edge" perks:snapshot perks:slideways
+
+# [PVE] Auto Rifle – Belisarius‑D – Rapid Hit + Kill Clip
+weapon:"Belisarius-D" perks:rapid hit perks:kill clip
+
+# [PVP] Auto Rifle – Belisarius‑D – Eye of the Storm + Rangefinder
+weapon:"Belisarius-D" perks:eye of the storm perks:rangefinder
+
+# [PVE] Pulse Rifle – No Time to Explain – Reconstruction + Killing Tally
+weapon:"No Time to Explain" perks:reconstruction perks:killing tally
+
+# [PVP] Pulse Rifle – No Time to Explain – Desperado + High‑Impact Reserves
+weapon:"No Time to Explain" perks:desperado perks:high-impact reserves
+
+# [PVE] Hand Cannon – Sunshot – Vorpal Weapon + Demolitionist
+weapon:"Sunshot" perks:vorpal weapon perks:demolitionist
+
+# [PVP] Hand Cannon – Sunshot – Snapshot Sights + Rangefinder
+weapon:"Sunshot" perks:snapshot perks:rangefinder
+
+# [PVE] Rocket Launcher – Truth – Aggressive Launch + Demolitionist
+weapon:"Truth" perks:aggressive launch perks:demolitionist
+
+# [PVP] Rocket Launcher – Truth – Hard Launch + Tracking Module
+weapon:"Truth" perks:hard launch perks:tracking module
+
+# [PVE] Sniper Rifle – Succession – Rapid Hit + Kill Clip
+weapon:"Succession" perks:rapid hit perks:kill clip
+
+# [PVP] Sniper Rifle – Succession – Quickdraw + Subsistence
+weapon:"Succession" perks:quickdraw perks:subsistence
+
+# [PVE] Fusion Rifle – Heir Apparent – Solar Ordnance + Quickdraw
+weapon:"Heir Apparent" perks:solar ordnance perks:quickdraw
+
+# [PVP] Fusion Rifle – Heir Apparent – Snapshot Sights + Rangefinder
+weapon:"Heir Apparent" perks:snapshot perks:rangefinder
