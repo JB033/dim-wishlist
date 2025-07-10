@@ -1,17 +1,5 @@
-# [PVE] SMG – Perdition’s Edge – Subsistence + Frenzy
-weapon:"Perdition’s Edge" perks:"subsistence" perks:"frenzy"
+dimwishlist:item=1234567890&perks=111111111,222222222
+# [PVE] Sample Weapon – Perk A + Perk B
 
-# [PVP] SMG – Perdition’s Edge – Snapshot Sights + Slideways
-weapon:"Perdition’s Edge" perks:"snapshot sights" perks:"slideways"
-
-# [PVE] Auto Rifle – Belisarius-D – Rapid Hit + Kill Clip
-weapon:"Belisarius-D" perks:"rapid hit" perks:"kill clip"
-
-# [PVP] Auto Rifle – Belisarius-D – Eye of the Storm + Rangefinder
-weapon:"Belisarius-D" perks:"eye of the storm" perks:"rangefinder"
-
-# [PVE] Sniper Rifle – Succession – Rapid Hit + Kill Clip
-weapon:"Succession" perks:"rapid hit" perks:"kill clip"
-
-# [PVP] Sniper Rifle – Succession – Quickdraw + Subsistence
-weapon:"Succession" perks:"quickdraw" perks:"subsistence"
+dimwishlist:item=2345678901&perks=333333333,444444444
+# [PVP] Another Weapon – Perk C + Perk D
