@@ -1,5 +1,23 @@
-dimwishlist:item=1234567890&perks=111111111,222222222
-# [PVE] Sample Weapon – Perk A + Perk B
+dimwishlist:item=3212906877&perks=245078852,3213547022
+# [PVE] Belisarius-D – Rapid Hit + Kill Clip
 
-dimwishlist:item=2345678901&perks=333333333,444444444
-# [PVP] Another Weapon – Perk C + Perk D
+dimwishlist:item=3212906877&perks=3579670514,2846385770
+# [PVP] Belisarius-D – Eye of the Storm + Rangefinder
+
+dimwishlist:item=2561659405&perks=295662580,106909392
+# [PVE] Succession – Reconstruction + Vorpal Weapon
+
+dimwishlist:item=2561659405&perks=245078852,3708227201
+# [PVP] Succession – Quickdraw + Snapshot Sights
+
+dimwishlist:item=3329842373&perks=1115109093,4082225868
+# [PVE] Zaouli's Bane – Incandescent + Explosive Payload
+
+dimwishlist:item=3329842373&perks=3151536507,360593483
+# [PVP] Zaouli's Bane – Eye of the Storm + Opening Shot
+
+dimwishlist:item=1399263478&perks=3579670514,3436462433
+# [PVE] Glacioclasm – Subsistence + Reservoir Burst
+
+dimwishlist:item=1399263478&perks=245078852,360593483
+# [PVP] Glacioclasm – Quickdraw + Opening Shot
