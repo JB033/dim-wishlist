@@ -1,23 +1,48 @@
 dimwishlist:item=3212906877&perks=245078852,3213547022
 # [PVE] Belisarius-D – Rapid Hit + Kill Clip
-
 dimwishlist:item=3212906877&perks=3579670514,2846385770
 # [PVP] Belisarius-D – Eye of the Storm + Rangefinder
-
 dimwishlist:item=2561659405&perks=295662580,106909392
 # [PVE] Succession – Reconstruction + Vorpal Weapon
-
 dimwishlist:item=2561659405&perks=245078852,3708227201
 # [PVP] Succession – Quickdraw + Snapshot Sights
-
+dimwishlist:item=4025812471&perks=409551876,3142289711
+# [PVE] Judgment of Kelgorath – Pugilist + Incandescent
+dimwishlist:item=4025812471&perks=963840801,3511092054
+# [PVP] Judgment of Kelgorath – Shot Swap + Opening Shot
 dimwishlist:item=3329842373&perks=1115109093,4082225868
 # [PVE] Zaouli's Bane – Incandescent + Explosive Payload
-
 dimwishlist:item=3329842373&perks=3151536507,360593483
 # [PVP] Zaouli's Bane – Eye of the Storm + Opening Shot
-
 dimwishlist:item=1399263478&perks=3579670514,3436462433
 # [PVE] Glacioclasm – Subsistence + Reservoir Burst
-
 dimwishlist:item=1399263478&perks=245078852,360593483
 # [PVP] Glacioclasm – Quickdraw + Opening Shot
+dimwishlist:item=3436522431&perks=3300816220,201365942
+# [PVE] Hung Jury SR4 – Rapid Hit + Explosive Payload
+dimwishlist:item=3436522431&perks=47981717,360593483
+# [PVP] Hung Jury SR4 – Zen Moment + Opening Shot
+dimwishlist:item=4050644063&perks=1451057359,1996142143
+# [PVE] Ignition Code – Slideshot + Demolitionist
+dimwishlist:item=4050644063&perks=4082225868,3708227201
+# [PVP] Ignition Code – Explosive Payload + Snapshot Sights
+dimwishlist:item=1994077435&perks=106909392,4082225868
+# [PVE] The Prophecy – Vorpal Weapon + Explosive Payload
+dimwishlist:item=1994077435&perks=245078852,2779035018
+# [PVP] The Prophecy – Quickdraw + Impulse Amplifier
+dimwishlist:item=1460423424&perks=245078852,4082225868
+# [PVE] Blowout – Quickdraw + Explosive Payload
+dimwishlist:item=1460423424&perks=963840801,360593483
+# [PVP] Blowout – Shot Swap + Opening Shot
+dimwishlist:item=1684914718&perks=963840801,1140096971
+# [PVE] Unending Tempest – Shot Swap + Frenzy
+dimwishlist:item=1684914718&perks=4082225868,3151536507
+# [PVP] Unending Tempest – Explosive Payload + Eye of the Storm
+dimwishlist:item=180213558&perks=106909392,963840801
+# [PVE] Forbearance – Vorpal Weapon + Shot Swap
+dimwishlist:item=180213558&perks=4082225868,245078852
+# [PVP] Forbearance – Explosive Payload + Quickdraw
+dimwishlist:item=2773866698&perks=1140096971,3142289711
+# [PVE] The Recluse – Frenzy + Incandescent
+dimwishlist:item=2773866698&perks=245078852,360593483
+# [PVP] The Recluse – Quickdraw + Opening Shot
