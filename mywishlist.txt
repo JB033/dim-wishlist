@@ -46,3 +46,104 @@ dimwishlist:item=2773866698&perks=1140096971,3142289711
 # [PVE] The Recluse – Frenzy + Incandescent
 dimwishlist:item=2773866698&perks=245078852,360593483
 # [PVP] The Recluse – Quickdraw + Opening Shot
+dimwishlist:item=1843044399&perks=245078852,3142289711
+# [PVE] Nox Perennial V – Quickdraw + Incandescent
+dimwishlist:item=1843044399&perks=360593483,963840801
+# [PVP] Nox Perennial V – Opening Shot + Shot Swap
+dimwishlist:item=3887677435&perks=2779035018,245078852
+# [PVE] Elsie’s Rifle – Impulse Amplifier + Quickdraw
+dimwishlist:item=3887677435&perks=4082225868,1140096971
+# [PVP] Elsie’s Rifle – Explosive Payload + Frenzy
+dimwishlist:item=4052654668&perks=4082225868,3708227201
+# [PVE] Phyllotactic Spiral – Explosive Payload + Snapshot Sights
+dimwishlist:item=4052654668&perks=245078852,360593483
+# [PVP] Phyllotactic Spiral – Quickdraw + Opening Shot
+dimwishlist:item=1954039204&perks=963840801,1996142143
+# [PVE] Lodbrok-C – Shot Swap + Demolitionist
+dimwishlist:item=1954039204&perks=245078852,2846385770
+# [PVP] Lodbrok-C – Quickdraw + Rangefinder
+dimwishlist:item=3306207651&perks=1140096971,295662580
+# [PVE] Boudica-C – Frenzy + Reconstruction
+dimwishlist:item=3306207651&perks=3151536507,2779035018
+# [PVP] Boudica-C – Eye of the Storm + Impulse Amplifier
+dimwishlist:item=3666954566&perks=1140096971,106909392
+# [PVE] Herod-C – Frenzy + Vorpal Weapon
+dimwishlist:item=3666954566&perks=245078852,360593483
+# [PVP] Herod-C – Quickdraw + Opening Shot
+dimwishlist:item=1172884169&perks=3142289711,3213547022
+# [PVE] Syncopation-53 – Incandescent + Kill Clip
+dimwishlist:item=1172884169&perks=3708227201,2846385770
+# [PVP] Syncopation-53 – Snapshot Sights + Rangefinder
+dimwishlist:item=3371017760&perks=1115109093,963840801
+# [PVE] Funnelweb – Subsistence + Shot Swap
+dimwishlist:item=3371017760&perks=245078852,2779035018
+# [PVP] Funnelweb – Quickdraw + Impulse Amplifier
+dimwishlist:item=3616586446&perks=1451057359,1140096971
+# [PVE] Commemoration – Slideshot + Frenzy
+dimwishlist:item=3616586446&perks=963840801,3151536507
+# [PVP] Commemoration – Shot Swap + Eye of the Storm
+dimwishlist:item=3766045775&perks=3708227201,4082225868
+# [PVE] Zaouli's Bane (Alt) – Snapshot + Explosive Payload
+dimwishlist:item=3766045775&perks=245078852,360593483
+# [PVP] Zaouli's Bane (Alt) – Quickdraw + Opening Shot
+dimwishlist:item=2843785095&perks=245078852,4082225868
+# [PVE] Deliverance – Quickdraw + Explosive Payload
+dimwishlist:item=2843785095&perks=360593483,2779035018
+# [PVP] Deliverance – Opening Shot + Impulse Amplifier
+dimwishlist:item=1607401636&perks=409551876,3708227201
+# [PVE] Doom of Chelchis – Pugilist + Snapshot Sights
+dimwishlist:item=1607401636&perks=3151536507,2846385770
+# [PVP] Doom of Chelchis – Eye of the Storm + Rangefinder
+dimwishlist:item=3694008397&perks=106909392,4082225868
+# [PVE] Insidious – Vorpal Weapon + Explosive Payload
+dimwishlist:item=3694008397&perks=245078852,3708227201
+# [PVP] Insidious – Quickdraw + Snapshot Sights
+dimwishlist:item=701963768&perks=963840801,1140096971
+# [PVE] Thoughtless – Shot Swap + Frenzy
+dimwishlist:item=701963768&perks=245078852,2846385770
+# [PVP] Thoughtless – Quickdraw + Rangefinder
+dimwishlist:item=3512340053&perks=3213547022,1140096971
+# [PVE] Zaouli's Bane (Third Row) – Kill Clip + Frenzy
+dimwishlist:item=3512340053&perks=245078852,3151536507
+# [PVP] Zaouli's Bane (Third Row) – Quickdraw + Eye of the Storm
+dimwishlist:item=1713912773&perks=295662580,106909392
+# [PVE] Cataphract GL3 – Reconstruction + Vorpal Weapon
+dimwishlist:item=1713912773&perks=245078852,4082225868
+# [PVP] Cataphract GL3 – Quickdraw + Explosive Payload
+dimwishlist:item=2069259854&perks=1140096971,3142289711
+# [PVE] IKELOS_SMG_v1.0.3 – Frenzy + Incandescent
+dimwishlist:item=2069259854&perks=245078852,2846385770
+# [PVP] IKELOS_SMG_v1.0.3 – Quickdraw + Rangefinder
+dimwishlist:item=1363381765&perks=3142289711,1115109093
+# [PVE] Yesteryear – Incandescent + Subsistence
+dimwishlist:item=1363381765&perks=3151536507,2846385770
+# [PVP] Yesteryear – Eye of the Storm + Rangefinder
+dimwishlist:item=1399263479&perks=1140096971,3708227201
+# [PVE] Riptide – Frenzy + Snapshot Sights
+dimwishlist:item=1399263479&perks=360593483,2846385770
+# [PVP] Riptide – Opening Shot + Rangefinder
+dimwishlist:item=4214474685&perks=245078852,3213547022
+# [PVE] Appetence – Quickdraw + Kill Clip
+dimwishlist:item=4214474685&perks=963840801,2846385770
+# [PVP] Appetence – Shot Swap + Rangefinder
+dimwishlist:item=3766045777&perks=3213547022,1140096971
+# [PVE] Fatebringer – Kill Clip + Frenzy
+dimwishlist:item=3766045777&perks=245078852,360593483
+# [PVP] Fatebringer – Quickdraw + Opening Shot
+dimwishlist:item=1090290423&perks=295662580,1996142143
+# [PVE] Midnight Coup – Reconstruction + Demolitionist
+dimwishlist:item=1090290423&perks=245078852,360593483
+# [PVP] Midnight Coup – Quickdraw + Opening Shot
+dimwishlist:item=1539793970&perks=3142289711,106909392
+# [PVE] The Inquisitor – Incandescent + Vorpal Weapon
+dimwishlist:item=1539793970&perks=245078852,2779035018
+# [PVP] The Inquisitor – Quickdraw + Impulse Amplifier
+dimwishlist:item=1702378043&perks=3213547022,295662580
+# [PVE] Igneous Hammer – Kill Clip + Reconstruction
+dimwishlist:item=1702378043&perks=245078852,360593483
+# [PVP] Igneous Hammer – Quickdraw + Opening Shot
+dimwishlist:item=2633186522&perks=106909392,3142289711
+# [PVE] Cartesian Coordinate – Vorpal Weapon + Incandescent
+dimwishlist:item=2633186522&perks=245078852,2779035018
+# [PVP] Cartesian Coordinate – Quickdraw + Impulse Amplifier
+
