@@ -146,4 +146,41 @@ dimwishlist:item=2633186522&perks=106909392,3142289711
 # [PVE] Cartesian Coordinate – Vorpal Weapon + Incandescent
 dimwishlist:item=2633186522&perks=245078852,2779035018
 # [PVP] Cartesian Coordinate – Quickdraw + Impulse Amplifier
+dimwishlist:item=1503609581&perks=1140096971,3213547022
+# [PVE] Chattering Bone – Frenzy + Kill Clip
+dimwishlist:item=1503609581&perks=245078852,360593483
+# [PVP] Chattering Bone – Quickdraw + Opening Shot
+dimwishlist:item=1895137032&perks=295662580,106909392
+# [PVE] Cold Comfort – Reconstruction + Vorpal Weapon
+dimwishlist:item=1895137032&perks=245078852,2779035018
+# [PVP] Cold Comfort – Quickdraw + Impulse Amplifier
+dimwishlist:item=2284243386&perks=295662580,1996142143
+# [PVE] Retrofit Escapade – Reconstruction + Demolitionist
+dimwishlist:item=2284243386&perks=963840801,360593483
+# [PVP] Retrofit Escapade – Shot Swap + Opening Shot
+dimwishlist:item=3142289711&perks=295662580,1140096971
+# [PVE] Corrective Measure – Reconstruction + Frenzy
+dimwishlist:item=3142289711&perks=4082225868,2846385770
+# [PVP] Corrective Measure – Explosive Payload + Rangefinder
+dimwishlist:item=2753269585&perks=295662580,106909392
+# [PVE] Apex Predator – Reconstruction + Vorpal Weapon
+dimwishlist:item=2753269585&perks=245078852,360593483
+# [PVP] Apex Predator – Quickdraw + Opening Shot
+dimwishlist:item=2209003216&perks=3213547022,295662580
+# [PVE] Loud Lullaby – Kill Clip + Reconstruction
+dimwishlist:item=2209003216&perks=245078852,2779035018
+# [PVP] Loud Lullaby – Quickdraw + Impulse Amplifier
+dimwishlist:item=1706749617&perks=295662580,1140096971
+# [PVE] Age-Old Bond – Reconstruction + Frenzy
+dimwishlist:item=1706749617&perks=245078852,2846385770
+# [PVP] Age-Old Bond – Quickdraw + Rangefinder
+dimwishlist:item=3169616514&perks=3213547022,4082225868
+# [PVE] Doom of Chelchis (Alt) – Kill Clip + Explosive Payload
+dimwishlist:item=3169616514&perks=245078852,2846385770
+# [PVP] Doom of Chelchis (Alt) – Quickdraw + Rangefinder
+dimwishlist:item=1628165639&perks=295662580,106909392
+# [PVE] Wendigo GL3 – Reconstruction + Vorpal Weapon
+dimwishlist:item=1628165639&perks=4082225868,2779035018
+# [PVP] Wendigo GL3 – Explosive Payload + Impulse Amplifier
+
 
